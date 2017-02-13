@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主页导航 -->
+    <string-array name="main_nav">
+        <item>首页</item>
+        <item>信息</item>
+        <item>发现</item>
+        <item>我的</item>
+    </string-array>
+</resources>
